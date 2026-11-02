@@ -1,7 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-venv/
-*.egg-info/
-*.task
+
+# Project files created when the game runs
 cover_cache/
+hand_landmarker.task
