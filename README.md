@@ -134,7 +134,7 @@ If you add a new genre, also add a color for it in `GENRE_COLORS`.
 
 | Problem | Solution |
 |---------|----------|
-| The camera does not open | Close other apps that use the webcam. On a virtual machine, connect the webcam to it first. |
+| The camera does not open | Close other apps using the webcam or try `cv2.VideoCapture(1)`. |
 | The pointer does not appear | Show your hand clearly in good light, and check that `POINTER_HAND` matches the hand you use. |
 | Covers do not appear | Check your internet connection, or run once with a VPN. |
 | The window does not close | Click on the game window and press `Q`. |
