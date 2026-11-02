@@ -165,4 +165,4 @@ Made by **Kamand Najari**.
 
 ---
 
-Thank you for visiting! ⭐ If you enjoyed the project, please give it a star.
+Thank you for visiting! 👾💜🎶
